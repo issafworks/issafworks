@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### My name is Islam and I'm a web developer
 
-All my current projects are private but you can check out my [portfolio](https://issafworks.co) or [blog](https://issafworks.co/blog). I also have a [GitLab](https://gitlab.com/Issaf) account with old projects from 2020 and before. 
+All my current projects are private but you can check out my [portfolio](https://issafworks.co). I also have a [GitLab](https://gitlab.com/Issaf) account with old projects from 2020 and before. 
 
 You can also connect with me on
 <p align="left"> <a href="https://www.linkedin.com/in/islamsafsaf" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/issafco" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
